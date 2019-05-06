@@ -1,5 +1,5 @@
 # Webpack-Boilerplate
-Quick setup to kickstart your Javascript App Prototype! Just git pull the repo and start coding! no need to go through the motions of setting up your project!  
+Quick setup to kickstart your Javascript App prototype using  <a href="https://webpack.js.org/concepts">Webpack</a>, <a href="https://babeljs.io/">Babeljs</a>, npm, and ES6! Just git pull the repo and start coding! no need to go through the motions of setting up your project!  
 
 
 <h2>To get started</h2>
@@ -13,3 +13,4 @@ Quick setup to kickstart your Javascript App Prototype! Just git pull the repo a
 </ol>
 
 For more question just setup an issue and I will get to you as soon as possible!
+
